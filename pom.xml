@@ -7,7 +7,7 @@
     <version>0-SNAPSHOT</version>
 
     <properties>
-        <lib.camel.core.version>2.19.0</lib.camel.core.version>
+        <lib.camel.core.version>2.19.1</lib.camel.core.version>
 
         <plugin.maven.compiler.plugin.version>3.6.1</plugin.maven.compiler.plugin.version>
     </properties>
